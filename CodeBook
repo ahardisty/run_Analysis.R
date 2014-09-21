@@ -1,4 +1,30 @@
-Data was provided from UCI Machine Learning Lab
+The script assumes that all necessary data is in a file called UCI on the working directory. The following files were are used in the script (descriptions from README.txt):
 
-Mobile phone data
+Data
+features.txt - List of all features.
+train/X_train.txt - Training set.
+train/y_train.txt - Training labels.
+test/X_test.txt - Test set.
+test/y_test.txt - Test labels.
+train/subject_train.txt - Each row identifies the subject who performed the activity for each window sample.
+test/subject_test.txt- Each row identifies the subject who performed the activity for each window sample.
+
+The excercise was complieted using thethe following files:
+=========================================
+
+- 'README.txt'
+
+- 'features_info.txt': Shows information about the variables used on the feature vector.
+
+- 'features.txt': List of all features.
+
+- 'activity_labels.txt': Links the class labels with their activity name.
+
+- 'train/X_train.txt': Training set.
+
+- 'train/y_train.txt': Training labels.
+
+- 'test/X_test.txt': Test set.
+
+- 'test/y_test.txt': Test labels.
 
